@@ -7,7 +7,7 @@ Understanding key 3D graphics concepts is necessary to complete the chapters in 
 - A basic understanding of Unity script or C# will be helpful to complete the projects, though the code that is included is clearly explained.
 
 ## Note
-Since the Unity package file was greater than [100 MB](https://help.github.com/articles/working-with-large-files/), we have uploaded it using Git LFS. To download the entire code bundle, you can use the command ```git lfs clone https://github.com/PacktPublishing/mastering-unity-shaders-and-effects.git```.
+Since the Unity package file was greater than [100 MB](https://help.github.com/articles/working-with-large-files/), we have uploaded it using Git LFS. To download the entire code bundle, you can use the command ```git lfs clone https://github.com/PacktPublishing/mastering-unity-shaders-and-effects.git``` from Git Shell.
 
 ## Related books
 - [Unity 5.x Animation Cookbook](https://www.packtpub.com/game-development/unity-5x-animation-cookbook?utm_source=github&utm_medium=repository&utm_campaign=9781785883910)
