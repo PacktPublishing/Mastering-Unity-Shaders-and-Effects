@@ -13,7 +13,3 @@ Since the Unity package file was greater than [100 MB](https://help.github.com/a
 - [Unity 5.x Animation Cookbook](https://www.packtpub.com/game-development/unity-5x-animation-cookbook?utm_source=github&utm_medium=repository&utm_campaign=9781785883910)
 - [Building Levels in Unity](https://www.packtpub.com/game-development/building-levels-unity?utm_source=github&utm_medium=repository&utm_campaign=9781785282843)
 - [Getting Started with Unity 5](https://www.packtpub.com/game-development/getting-started-unity-5?utm_source=github&utm_medium=repository&utm_campaign=9781784398316)
-### Download a free PDF
-
- <i>If you have already purchased a print or Kindle version of this book, you can get a DRM-free PDF version at no cost.<br>Simply click on the link to download a free PDF copy of this book.</i>
-<p align="center"> <a href="https://packt.link/free-ebook/9781783553679">https://packt.link/free-ebook/9781783553679 </a> </p>
